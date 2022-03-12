@@ -1,0 +1,27 @@
+.upcomingProductsContent {
+  color: #ffffff;
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+}
+
+.upcomingProductsTagline {
+  padding-top: 0px;
+  padding-bottom: 20px;
+}
+
+.upcomingProductsTitle {
+  padding-top: 30px;
+}
+
+.upcomingProductsBtn {
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+}
